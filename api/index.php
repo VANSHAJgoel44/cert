@@ -26,15 +26,7 @@
         </button>
         <div class="collapse navbar-collapse" id="navbarNav">
             <ul class="navbar-nav ms-auto align-items-center">
-                <li class="nav-item">
-                    <a class="nav-link text-white opacity-75 hover-opacity-100" href="https://education.countryedu.com/certification/#certifications">Certifications</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link text-white opacity-75 hover-opacity-100" href="https://education.countryedu.com/certification/#benefits">Benefits</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link text-white opacity-75 hover-opacity-100" href="https://education.countryedu.com/certification/#testimonials">Testimonials</a>
-                </li>
+                
                 <li class="nav-item ms-lg-4 mt-3 mt-lg-0">
                     <a href="https://education.countryedu.com/pages/contact.html" class="btn btn-primary-theme px-4 py-2 fw-medium rounded-pill shadow-sm">Contact us</a>
                 </li>
